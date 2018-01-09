@@ -1,3 +1,8 @@
+# to run xampp mysql server in ubuntu
+~~~bash
+sudo /opt/lampp/lampp start
+~~~
+
 # to login into mysql
 ~~~bash
 mysql -uroot -p
